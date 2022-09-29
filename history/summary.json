@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/markdown-it-template.mioun.repl.co",
     "slug": "markdown-it-template",
     "status": "up",
-    "uptime": "1.45%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "1.45%",
-    "uptimeMonth": "1.45%",
-    "uptimeYear": "1.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 324,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {
-      "2022-09-29": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
