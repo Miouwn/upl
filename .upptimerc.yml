@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: MarkdownIt Template
     url: https://markdown-it-template.mioun.repl.co/
+  - name: For School
+    url: https://for-school.mioun.repl.co/
+  - name: Uptime Kuma
+    url: https://uptime-last.mioun.repl.co/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
