@@ -40,19 +40,19 @@
     "url": "https://uptime-last.mioun.repl.co/",
     "icon": "https://favicons.githubusercontent.com/uptime-last.mioun.repl.co",
     "slug": "uptime-kuma",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 6380,
-    "timeDay": 6380,
-    "timeWeek": 6380,
-    "timeMonth": 6380,
-    "timeYear": 6380,
+    "status": "up",
+    "uptime": "96.75%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "96.75%",
+    "time": 3362,
+    "timeDay": 3362,
+    "timeWeek": 3362,
+    "timeMonth": 3362,
+    "timeYear": 3362,
     "dailyMinutesDown": {
-      "2022-09-29": 0
+      "2022-09-29": 20
     }
   }
 ]
