@@ -1,22 +1,22 @@
 [
   {
     "name": "MarkdownIt Template",
-    "url": "https://markdown-it-template.mioun.repl.co/to",
+    "url": "https://markdown-it-template.mioun.repl.co/",
     "icon": "https://favicons.githubusercontent.com/markdown-it-template.mioun.repl.co",
     "slug": "markdown-it-template",
-    "status": "down",
-    "uptime": "5.43%",
-    "uptimeDay": "5.43%",
-    "uptimeWeek": "5.43%",
-    "uptimeMonth": "5.43%",
-    "uptimeYear": "5.43%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "status": "up",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
+    "time": 324,
+    "timeDay": 324,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2022-09-29": 0
+      "2022-09-29": 3
     }
   }
 ]
