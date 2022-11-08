@@ -25,9 +25,9 @@
     "url": "https://for-school.mioun.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/for-school.mioun.repl.co.ico",
     "slug": "for-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -37,6 +37,7 @@
     "timeMonth": 2335,
     "timeYear": 2096,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-10-04": 42
     }
   },
@@ -46,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-last.mioun.repl.co.ico",
     "slug": "uptime-kuma",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.07%",
     "uptimeDay": "95.28%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "97.03%",
+    "uptimeYear": "97.07%",
     "time": 3414,
     "timeDay": 10306,
     "timeWeek": 3586,
