@@ -32,7 +32,7 @@
     "url": "https://for-school.mioun.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/for-school.mioun.repl.co.ico",
     "slug": "for-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
@@ -44,6 +44,7 @@
     "timeMonth": 2571,
     "timeYear": 2285,
     "dailyMinutesDown": {
+      "2022-12-09": 0,
       "2022-12-07": 16,
       "2022-11-18": 16,
       "2022-11-14": 121,
