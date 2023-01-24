@@ -1,7 +1,7 @@
 url: https://for-school.mioun.repl.co/
-status: up
-code: 200
-responseTime: 1419
-lastUpdated: 2023-01-23T23:05:45.670Z
+status: down
+code: 429
+responseTime: 13175
+lastUpdated: 2023-01-24T22:26:59.330Z
 startTime: Thu Sep 29 2022 09:06:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
