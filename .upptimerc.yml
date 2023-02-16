@@ -9,6 +9,8 @@ sites:
     url: https://for-school.mioun.repl.co/
   - name: Uptime Kuma
     url: https://uptime-last.mioun.repl.co/
+  - name: Dcb
+    url: https://dcbot.mioun.repl.co/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
