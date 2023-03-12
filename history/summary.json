@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/markdown-it-template.mioun.repl.co.ico",
     "slug": "markdown-it-template",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 1286,
     "timeDay": 269,
     "timeWeek": 370,
@@ -156,9 +156,9 @@
     "url": "https://dcbot.mioun.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/dcbot.mioun.repl.co.ico",
     "slug": "dcb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -168,6 +168,7 @@
     "timeMonth": 2585,
     "timeYear": 2585,
     "dailyMinutesDown": {
+      "2023-03-12": 0,
       "2023-03-11": 15,
       "2023-03-06": 23
     }
