@@ -157,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbot.mioun.repl.co.ico",
     "slug": "dcb",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 2585,
     "timeDay": 11622,
     "timeWeek": 5944,
     "timeMonth": 2585,
     "timeYear": 2585,
     "dailyMinutesDown": {
-      "2023-03-11": 22,
+      "2023-03-11": 15,
       "2023-03-06": 23
     }
   }
