@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.25%",
-    "time": 1480,
-    "timeDay": 1964,
-    "timeWeek": 3175,
-    "timeMonth": 1941,
-    "timeYear": 1480,
+    "time": 1478,
+    "timeDay": 1696,
+    "timeWeek": 2921,
+    "timeMonth": 1921,
+    "timeYear": 1478,
     "dailyMinutesDown": {
       "2023-05-24": 50,
       "2023-05-18": 126,
@@ -62,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.65%",
-    "time": 1999,
-    "timeDay": 2746,
-    "timeWeek": 989,
-    "timeMonth": 1810,
-    "timeYear": 1999,
+    "time": 1994,
+    "timeDay": 1891,
+    "timeWeek": 899,
+    "timeMonth": 1781,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2023-05-25": 16,
       "2023-05-24": 35,
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "98.92%",
-    "time": 2299,
-    "timeDay": 2829,
-    "timeWeek": 1021,
-    "timeMonth": 2858,
-    "timeYear": 2299,
+    "time": 2295,
+    "timeDay": 2069,
+    "timeWeek": 968,
+    "timeMonth": 2815,
+    "timeYear": 2295,
     "dailyMinutesDown": {
       "2023-05-25": 16,
       "2023-05-24": 35,
@@ -195,7 +195,7 @@
     "timeMonth": 18571,
     "timeYear": 7225,
     "dailyMinutesDown": {
-      "2023-06-07": 906,
+      "2023-06-07": 910,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -247,6 +247,26 @@
       "2023-03-12": 210,
       "2023-03-11": 15,
       "2023-03-06": 23
+    }
+  },
+  {
+    "name": "Lavalink",
+    "url": "$LAVALINK_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "lavalink",
+    "status": "down",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-07": 0
     }
   }
 ]
