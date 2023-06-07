@@ -12,7 +12,7 @@ sites:
   - name: Dcb
     url: https://dcbot.mioun.repl.co/
   - name: Lavalink
-    url: $LAVALINK_URL
+    url: $LAVALINK_URL + "/v3/loadtracks?identifier=dQw4w9WgXcQ"
     headers:
       - "Authorization: youshallnotpass"
 status-website:
