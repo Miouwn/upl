@@ -1,7 +1,7 @@
 url: $LAVALINK_URL + "/v3/loadtracks?identifier=dQw4w9WgXcQ"
 status: down
 code: 400
-responseTime: 470
-lastUpdated: 2023-06-10T23:05:05.029Z
+responseTime: 357
+lastUpdated: 2023-06-11T23:06:15.869Z
 startTime: Wed Jun 07 2023 15:09:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
