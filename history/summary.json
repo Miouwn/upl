@@ -104,9 +104,9 @@
     "slug": "uptime-kuma",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "98.98%",
     "time": 2283,
     "timeDay": 7665,
@@ -114,7 +114,6 @@
     "timeMonth": 2504,
     "timeYear": 2283,
     "dailyMinutesDown": {
-      "2023-06-22": 12,
       "2023-05-25": 16,
       "2023-05-24": 35,
       "2023-05-18": 118,
@@ -175,7 +174,8 @@
       "2022-10-15": 30,
       "2022-10-12": 24,
       "2022-10-11": 165,
-      "2022-10-06": 64
+      "2022-10-06": 64,
+      "2022-10-03": 36
     }
   },
   {
@@ -184,18 +184,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbot.mioun.repl.co.ico",
     "slug": "dcb",
     "status": "down",
-    "uptime": "55.71%",
+    "uptime": "55.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.71%",
+    "uptimeYear": "55.70%",
     "time": 7831,
     "timeDay": 0,
     "timeWeek": 17162,
     "timeMonth": 17942,
     "timeYear": 7831,
     "dailyMinutesDown": {
-      "2023-06-22": 925,
+      "2023-06-22": 944,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -281,7 +281,7 @@
     "timeMonth": 2792,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-06-22": 926,
+      "2023-06-22": 944,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -304,14 +304,14 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "62.50%",
-    "uptimeDay": "47.98%",
-    "uptimeWeek": "62.50%",
-    "uptimeMonth": "62.50%",
-    "uptimeYear": "62.50%",
+    "status": "down",
+    "uptime": "62.72%",
+    "uptimeDay": "48.97%",
+    "uptimeWeek": "62.72%",
+    "uptimeMonth": "62.72%",
+    "uptimeYear": "62.72%",
     "time": 8351,
-    "timeDay": 9823,
+    "timeDay": 9883,
     "timeWeek": 8351,
     "timeMonth": 8351,
     "timeYear": 8351,
@@ -321,7 +321,7 @@
       "2023-06-20": 744,
       "2023-06-19": 619,
       "2023-06-18": 817,
-      "2023-06-17": 498
+      "2023-06-17": 483
     }
   }
 ]
