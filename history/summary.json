@@ -59,10 +59,10 @@
     "url": "https://for-school.mioun.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/for-school.mioun.repl.co.ico",
     "slug": "for-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.74%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.65%",
     "time": 1997,
@@ -71,6 +71,7 @@
     "timeMonth": 1691,
     "timeYear": 1997,
     "dailyMinutesDown": {
+      "2023-06-28": 1,
       "2023-06-27": 23,
       "2023-06-25": 52,
       "2023-06-24": 52,
@@ -202,7 +203,7 @@
     "timeMonth": 18260,
     "timeYear": 8080,
     "dailyMinutesDown": {
-      "2023-06-28": 932,
+      "2023-06-28": 942,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -294,7 +295,7 @@
     "timeMonth": 2792,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-06-28": 932,
+      "2023-06-28": 942,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -324,23 +325,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
     "status": "up",
-    "uptime": "76.87%",
-    "uptimeDay": "54.61%",
-    "uptimeWeek": "57.32%",
-    "uptimeMonth": "76.87%",
-    "uptimeYear": "76.87%",
+    "uptime": "76.46%",
+    "uptimeDay": "55.51%",
+    "uptimeWeek": "56.54%",
+    "uptimeMonth": "76.46%",
+    "uptimeYear": "76.46%",
     "time": 8546,
-    "timeDay": 9631,
-    "timeWeek": 8965,
+    "timeDay": 9705,
+    "timeWeek": 8973,
     "timeMonth": 8546,
     "timeYear": 8546,
     "dailyMinutesDown": {
-      "2023-06-28": 442,
+      "2023-06-28": 433,
       "2023-06-27": 801,
       "2023-06-26": 703,
       "2023-06-25": 825,
       "2023-06-24": 978,
-      "2023-06-23": 549
+      "2023-06-23": 626,
+      "2023-06-22": 10
     }
   }
 ]
