@@ -66,7 +66,7 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.61%",
     "time": 1998,
-    "timeDay": 2099,
+    "timeDay": 2445,
     "timeWeek": 3828,
     "timeMonth": 1809,
     "timeYear": 1998,
@@ -112,9 +112,9 @@
     "slug": "uptime-kuma",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.01%",
     "time": 2396,
     "timeDay": 3851,
@@ -122,7 +122,6 @@
     "timeMonth": 3054,
     "timeYear": 2396,
     "dailyMinutesDown": {
-      "2023-06-30": 8,
       "2023-06-25": 35,
       "2023-06-24": 33,
       "2023-05-25": 16,
@@ -184,7 +183,8 @@
       "2022-10-17": 50,
       "2022-10-15": 30,
       "2022-10-12": 24,
-      "2022-10-11": 165
+      "2022-10-11": 165,
+      "2022-10-06": 23
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbot.mioun.repl.co.ico",
     "slug": "dcb",
     "status": "down",
-    "uptime": "52.39%",
+    "uptime": "52.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.39%",
+    "uptimeYear": "52.37%",
     "time": 8080,
     "timeDay": 0,
     "timeWeek": 19234,
     "timeMonth": 18442,
     "timeYear": 8080,
     "dailyMinutesDown": {
-      "2023-06-30": 946,
+      "2023-06-30": 1004,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -298,7 +298,7 @@
     "timeMonth": 2792,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-06-30": 946,
+      "2023-06-30": 1004,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -329,14 +329,14 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "81.58%",
-    "uptimeDay": "41.44%",
-    "uptimeWeek": "60.73%",
-    "uptimeMonth": "81.58%",
-    "uptimeYear": "81.58%",
+    "status": "down",
+    "uptime": "81.70%",
+    "uptimeDay": "41.42%",
+    "uptimeWeek": "60.88%",
+    "uptimeMonth": "81.70%",
+    "uptimeYear": "81.70%",
     "time": 8610,
-    "timeDay": 8189,
+    "timeDay": 8273,
     "timeWeek": 8847,
     "timeMonth": 8610,
     "timeYear": 8610,
@@ -346,7 +346,7 @@
       "2023-06-28": 638,
       "2023-06-27": 801,
       "2023-06-26": 703,
-      "2023-06-25": 533
+      "2023-06-25": 517
     }
   }
 ]
