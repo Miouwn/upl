@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbot.mioun.repl.co.ico",
     "slug": "dcb",
     "status": "down",
-    "uptime": "50.53%",
+    "uptime": "50.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.53%",
+    "uptimeYear": "50.52%",
     "time": 8267,
     "timeDay": 16930,
     "timeWeek": 19641,
     "timeMonth": 17991,
     "timeYear": 8267,
     "dailyMinutesDown": {
-      "2023-07-05": 859,
+      "2023-07-05": 876,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -305,7 +305,7 @@
     "timeMonth": 2792,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-05": 859,
+      "2023-07-05": 876,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -341,15 +341,15 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "86.24%",
-    "uptimeDay": "48.18%",
-    "uptimeWeek": "60.94%",
-    "uptimeMonth": "86.24%",
-    "uptimeYear": "86.24%",
+    "status": "down",
+    "uptime": "86.41%",
+    "uptimeDay": "48.79%",
+    "uptimeWeek": "61.40%",
+    "uptimeMonth": "86.41%",
+    "uptimeYear": "86.41%",
     "time": 8922,
-    "timeDay": 10170,
-    "timeWeek": 9693,
+    "timeDay": 10301,
+    "timeWeek": 9696,
     "timeMonth": 8922,
     "timeYear": 8922,
     "dailyMinutesDown": {
@@ -359,7 +359,7 @@
       "2023-07-02": 507,
       "2023-07-01": 473,
       "2023-06-30": 786,
-      "2023-06-29": 535
+      "2023-06-29": 489
     }
   }
 ]
