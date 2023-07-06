@@ -112,19 +112,19 @@
     "url": "https://uptime-last.mioun.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-last.mioun.repl.co.ico",
     "slug": "uptime-kuma",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "98.78%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 2407,
     "timeDay": 5461,
     "timeWeek": 2852,
     "timeMonth": 3257,
     "timeYear": 2407,
     "dailyMinutesDown": {
-      "2023-07-06": 54,
+      "2023-07-06": 55,
       "2023-07-05": 37,
       "2023-07-01": 32,
       "2023-06-25": 35,
@@ -185,8 +185,7 @@
       "2022-10-20": 152,
       "2022-10-19": 31,
       "2022-10-18": 104,
-      "2022-10-17": 50,
-      "2022-10-15": 30
+      "2022-10-17": 50
     }
   },
   {
@@ -206,7 +205,7 @@
     "timeMonth": 17991,
     "timeYear": 8267,
     "dailyMinutesDown": {
-      "2023-07-06": 592,
+      "2023-07-06": 621,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -306,7 +305,7 @@
     "timeMonth": 2792,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-06": 592,
+      "2023-07-06": 621,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -344,25 +343,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
     "status": "up",
-    "uptime": "86.35%",
-    "uptimeDay": "47.60%",
-    "uptimeWeek": "59.66%",
-    "uptimeMonth": "86.35%",
-    "uptimeYear": "86.35%",
+    "uptime": "86.28%",
+    "uptimeDay": "50.18%",
+    "uptimeWeek": "59.42%",
+    "uptimeMonth": "86.28%",
+    "uptimeYear": "86.28%",
     "time": 8920,
     "timeDay": 8655,
-    "timeWeek": 9526,
+    "timeWeek": 9528,
     "timeMonth": 8920,
     "timeYear": 8920,
     "dailyMinutesDown": {
-      "2023-07-06": 264,
+      "2023-07-06": 256,
       "2023-07-05": 800,
       "2023-07-04": 572,
       "2023-07-03": 553,
       "2023-07-02": 507,
       "2023-07-01": 473,
       "2023-06-30": 786,
-      "2023-06-29": 111
+      "2023-06-29": 144
     }
   }
 ]
