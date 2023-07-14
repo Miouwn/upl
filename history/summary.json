@@ -118,18 +118,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-last.mioun.repl.co.ico",
     "slug": "uptime-kuma",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.03%",
     "time": 2472,
     "timeDay": 332,
     "timeWeek": 3742,
     "timeMonth": 3808,
     "timeYear": 2472,
     "dailyMinutesDown": {
-      "2023-07-14": 14,
       "2023-07-12": 168,
       "2023-07-11": 33,
       "2023-07-07": 112,
@@ -191,7 +190,7 @@
       "2022-10-23": 57,
       "2022-10-22": 84,
       "2022-10-21": 68,
-      "2022-10-20": 116
+      "2022-10-20": 152
     }
   },
   {
@@ -211,7 +210,7 @@
     "timeMonth": 17883,
     "timeYear": 8581,
     "dailyMinutesDown": {
-      "2023-07-14": 1035,
+      "2023-07-14": 1057,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -319,7 +318,7 @@
     "timeMonth": 428,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-14": 1035,
+      "2023-07-14": 1057,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -364,17 +363,17 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "89.62%",
-    "uptimeDay": "51.39%",
-    "uptimeWeek": "57.00%",
-    "uptimeMonth": "89.62%",
-    "uptimeYear": "89.62%",
-    "time": 9111,
-    "timeDay": 8116,
-    "timeWeek": 9504,
-    "timeMonth": 9111,
-    "timeYear": 9111,
+    "status": "down",
+    "uptime": "89.75%",
+    "uptimeDay": "51.50%",
+    "uptimeWeek": "57.55%",
+    "uptimeMonth": "89.75%",
+    "uptimeYear": "89.75%",
+    "time": 9122,
+    "timeDay": 8438,
+    "timeWeek": 9541,
+    "timeMonth": 9122,
+    "timeYear": 9122,
     "dailyMinutesDown": {
       "2023-07-14": 568,
       "2023-07-13": 592,
@@ -382,7 +381,7 @@
       "2023-07-11": 812,
       "2023-07-10": 631,
       "2023-07-09": 471,
-      "2023-07-08": 398
+      "2023-07-08": 343
     }
   }
 ]
