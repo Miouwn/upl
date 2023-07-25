@@ -121,18 +121,19 @@
     "url": "https://uptime-last.mioun.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-last.mioun.repl.co.ico",
     "slug": "uptime-kuma",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 2537,
     "timeDay": 11701,
     "timeWeek": 4334,
     "timeMonth": 3471,
     "timeYear": 2537,
     "dailyMinutesDown": {
+      "2023-07-25": 2,
       "2023-07-22": 17,
       "2023-07-12": 168,
       "2023-07-11": 33,
@@ -195,7 +196,7 @@
       "2022-10-23": 57,
       "2022-10-22": 84,
       "2022-10-21": 68,
-      "2022-10-20": 116
+      "2022-10-20": 101
     }
   },
   {
@@ -215,7 +216,7 @@
     "timeMonth": 17405,
     "timeYear": 8976,
     "dailyMinutesDown": {
-      "2023-07-25": 1241,
+      "2023-07-25": 1251,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -334,7 +335,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-25": 1241,
+      "2023-07-25": 1251,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -391,23 +392,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
     "status": "up",
-    "uptime": "93.97%",
-    "uptimeDay": "47.91%",
-    "uptimeWeek": "65.40%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "93.97%",
+    "uptime": "93.94%",
+    "uptimeDay": "48.55%",
+    "uptimeWeek": "65.27%",
+    "uptimeMonth": "92.01%",
+    "uptimeYear": "93.94%",
     "time": 9153,
-    "timeDay": 8577,
-    "timeWeek": 9615,
-    "timeMonth": 9435,
+    "timeDay": 8604,
+    "timeWeek": 9627,
+    "timeMonth": 9438,
     "timeYear": 9153,
     "dailyMinutesDown": {
-      "2023-07-25": 702,
+      "2023-07-25": 695,
       "2023-07-24": 612,
       "2023-07-23": 786,
       "2023-07-22": 580,
       "2023-07-21": 569,
-      "2023-07-20": 240
+      "2023-07-20": 261
     }
   }
 ]
