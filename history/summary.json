@@ -124,9 +124,9 @@
     "slug": "uptime-kuma",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.12%",
     "time": 2522,
     "timeDay": 407,
@@ -134,7 +134,6 @@
     "timeMonth": 3596,
     "timeYear": 2522,
     "dailyMinutesDown": {
-      "2023-08-02": 8,
       "2023-07-31": 17,
       "2023-07-26": 17,
       "2023-07-22": 17,
@@ -198,7 +197,7 @@
       "2022-10-24": 273,
       "2022-10-23": 57,
       "2022-10-22": 84,
-      "2022-10-21": 25
+      "2022-10-21": 68
     }
   },
   {
@@ -207,18 +206,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbot.mioun.repl.co.ico",
     "slug": "dcb",
     "status": "down",
-    "uptime": "42.08%",
+    "uptime": "42.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.08%",
+    "uptimeYear": "42.07%",
     "time": 9354,
     "timeDay": 27202,
     "timeWeek": 19210,
     "timeMonth": 17684,
     "timeYear": 9354,
     "dailyMinutesDown": {
-      "2023-08-02": 827,
+      "2023-08-02": 835,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -345,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-08-02": 827,
+      "2023-08-02": 835,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -409,24 +408,24 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "95.56%",
-    "uptimeDay": "56.69%",
-    "uptimeWeek": "69.66%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "95.56%",
-    "time": 9295,
-    "timeDay": 9305,
-    "timeWeek": 9955,
-    "timeMonth": 9586,
-    "timeYear": 9295,
+    "status": "down",
+    "uptime": "95.58%",
+    "uptimeDay": "56.97%",
+    "uptimeWeek": "69.81%",
+    "uptimeMonth": "93.05%",
+    "uptimeYear": "95.58%",
+    "time": 9293,
+    "timeDay": 9262,
+    "timeWeek": 9947,
+    "timeMonth": 9584,
+    "timeYear": 9293,
     "dailyMinutesDown": {
       "2023-08-02": 377,
       "2023-08-01": 546,
       "2023-07-31": 577,
       "2023-07-30": 526,
       "2023-07-29": 607,
-      "2023-07-28": 428
+      "2023-07-28": 412
     }
   }
 ]
