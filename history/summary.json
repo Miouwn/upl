@@ -224,7 +224,7 @@
     "timeMonth": 17886,
     "timeYear": 10260,
     "dailyMinutesDown": {
-      "2023-08-31": 476,
+      "2023-08-31": 492,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-08-31": 476,
+      "2023-08-31": 492,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -473,16 +473,16 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "96.99%",
-    "uptimeDay": "45.67%",
-    "uptimeWeek": "67.03%",
-    "uptimeMonth": "92.41%",
-    "uptimeYear": "96.99%",
+    "status": "down",
+    "uptime": "97.03%",
+    "uptimeDay": "45.83%",
+    "uptimeWeek": "67.46%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "97.03%",
     "time": 9042,
-    "timeDay": 7301,
+    "timeDay": 7287,
     "timeWeek": 7698,
-    "timeMonth": 8767,
+    "timeMonth": 8762,
     "timeYear": 9042,
     "dailyMinutesDown": {
       "2023-08-31": 245,
@@ -490,7 +490,7 @@
       "2023-08-29": 572,
       "2023-08-28": 663,
       "2023-08-27": 691,
-      "2023-08-26": 355
+      "2023-08-26": 311
     }
   }
 ]
