@@ -1,7 +1,7 @@
 url: $YE
-status: up
-code: 200
-responseTime: 5091
-lastUpdated: 2023-09-08T04:57:35.998Z
+status: down
+code: 502
+responseTime: 21893
+lastUpdated: 2023-09-08T05:57:15.525Z
 startTime: 2023-06-15T17:31:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
