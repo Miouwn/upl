@@ -227,7 +227,7 @@
     "timeMonth": 17717,
     "timeYear": 10999,
     "dailyMinutesDown": {
-      "2023-09-28": 620,
+      "2023-09-28": 632,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -411,7 +411,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-09-28": 620,
+      "2023-09-28": 632,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -532,17 +532,17 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "91.92%",
-    "uptimeDay": "26.65%",
-    "uptimeWeek": "10.01%",
-    "uptimeMonth": "72.18%",
-    "uptimeYear": "91.92%",
-    "time": 8933,
-    "timeDay": 6186,
-    "timeWeek": 6678,
-    "timeMonth": 8480,
-    "timeYear": 8933,
+    "status": "down",
+    "uptime": "91.93%",
+    "uptimeDay": "27.46%",
+    "uptimeWeek": "10.13%",
+    "uptimeMonth": "72.22%",
+    "uptimeYear": "91.93%",
+    "time": 8932,
+    "timeDay": 5893,
+    "timeWeek": 6624,
+    "timeMonth": 8475,
+    "timeYear": 8932,
     "dailyMinutesDown": {
       "2023-09-28": 309,
       "2023-09-27": 1353,
@@ -555,7 +555,7 @@
       "2023-09-20": 1289,
       "2023-09-19": 678,
       "2023-09-18": 371,
-      "2023-09-17": 272
+      "2023-09-17": 256
     }
   }
 ]
