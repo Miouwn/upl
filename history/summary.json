@@ -72,7 +72,7 @@
     "slug": "for-school",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "80.11%",
+    "uptimeDay": "80.65%",
     "uptimeWeek": "84.26%",
     "uptimeMonth": "96.38%",
     "uptimeYear": "99.34%",
@@ -230,7 +230,7 @@
     "timeMonth": 16934,
     "timeYear": 10985,
     "dailyMinutesDown": {
-      "2023-10-01": 1223,
+      "2023-10-01": 1230,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
@@ -417,7 +417,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-10-01": 1223,
+      "2023-10-01": 1230,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
@@ -541,17 +541,17 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "89.62%",
-    "uptimeDay": "5.27%",
-    "uptimeWeek": "8.67%",
-    "uptimeMonth": "63.12%",
-    "uptimeYear": "89.62%",
-    "time": 8908,
-    "timeDay": 6055,
-    "timeWeek": 6360,
-    "timeMonth": 8409,
-    "timeYear": 8908,
+    "status": "down",
+    "uptime": "89.63%",
+    "uptimeDay": "5.78%",
+    "uptimeWeek": "8.75%",
+    "uptimeMonth": "63.15%",
+    "uptimeYear": "89.63%",
+    "time": 8906,
+    "timeDay": 5750,
+    "timeWeek": 6311,
+    "timeMonth": 8400,
+    "timeYear": 8906,
     "dailyMinutesDown": {
       "2023-10-01": 1147,
       "2023-09-30": 1412,
@@ -565,7 +565,7 @@
       "2023-09-22": 1339,
       "2023-09-21": 1265,
       "2023-09-20": 1289,
-      "2023-09-19": 629
+      "2023-09-19": 614
     }
   }
 ]
