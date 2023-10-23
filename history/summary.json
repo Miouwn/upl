@@ -217,7 +217,7 @@
     "timeMonth": 16017,
     "timeYear": 11279,
     "dailyMinutesDown": {
-      "2023-10-23": 1288,
+      "2023-10-23": 1296,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-10-23": 1288,
+      "2023-10-23": 1296,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -572,17 +572,17 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "90.08%",
-    "uptimeDay": "4.86%",
-    "uptimeWeek": "7.57%",
-    "uptimeMonth": "57.55%",
-    "uptimeYear": "90.08%",
-    "time": 8745,
-    "timeDay": 5757,
-    "timeWeek": 5684,
-    "timeMonth": 6009,
-    "timeYear": 8745,
+    "status": "down",
+    "uptime": "90.10%",
+    "uptimeDay": "5.40%",
+    "uptimeWeek": "7.65%",
+    "uptimeMonth": "57.64%",
+    "uptimeYear": "90.10%",
+    "time": 8744,
+    "timeDay": 5392,
+    "timeWeek": 5638,
+    "timeMonth": 5996,
+    "timeYear": 8744,
     "dailyMinutesDown": {
       "2023-10-23": 1225,
       "2023-10-22": 1313,
@@ -598,7 +598,7 @@
       "2023-10-12": 1295,
       "2023-10-11": 1353,
       "2023-10-10": 1381,
-      "2023-10-09": 46
+      "2023-10-09": 3
     }
   }
 ]
