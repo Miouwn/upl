@@ -1,7 +1,7 @@
 url: https://uptime-last.mioun.repl.co/
-status: up
-code: 200
-responseTime: 13692
-lastUpdated: 2023-11-06T16:12:21.486Z
+status: down
+code: 500
+responseTime: 701
+lastUpdated: 2023-11-06T19:56:14.238Z
 startTime: 2022-09-29T09:06:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
