@@ -133,9 +133,9 @@
     "slug": "uptime-kuma",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "77.74%",
-    "uptimeWeek": "80.62%",
-    "uptimeMonth": "89.01%",
+    "uptimeDay": "76.82%",
+    "uptimeWeek": "80.49%",
+    "uptimeMonth": "88.98%",
     "uptimeYear": "99.08%",
     "time": 2888,
     "timeDay": 3869,
@@ -143,7 +143,7 @@
     "timeMonth": 3836,
     "timeYear": 2855,
     "dailyMinutesDown": {
-      "2023-11-07": 277,
+      "2023-11-07": 290,
       "2023-11-06": 158,
       "2023-11-05": 172,
       "2023-11-04": 60,
@@ -190,7 +190,7 @@
     "timeMonth": 17164,
     "timeYear": 11279,
     "dailyMinutesDown": {
-      "2023-11-07": 378,
+      "2023-11-07": 391,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -414,7 +414,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-11-07": 378,
+      "2023-11-07": 391,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -575,17 +575,17 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "91.10%",
-    "uptimeDay": "7.76%",
-    "uptimeWeek": "7.35%",
-    "uptimeMonth": "57.73%",
-    "uptimeYear": "91.10%",
-    "time": 8656,
-    "timeDay": 5387,
-    "timeWeek": 6366,
-    "timeMonth": 5998,
-    "timeYear": 8656,
+    "status": "down",
+    "uptime": "91.13%",
+    "uptimeDay": "8.19%",
+    "uptimeWeek": "7.48%",
+    "uptimeMonth": "57.84%",
+    "uptimeYear": "91.13%",
+    "time": 8655,
+    "timeDay": 5384,
+    "timeWeek": 6318,
+    "timeMonth": 5987,
+    "timeYear": 8655,
     "dailyMinutesDown": {
       "2023-11-07": 361,
       "2023-11-06": 1276,
@@ -601,7 +601,7 @@
       "2023-10-27": 1414,
       "2023-10-26": 1358,
       "2023-10-25": 1389,
-      "2023-10-24": 681
+      "2023-10-24": 634
     }
   }
 ]
