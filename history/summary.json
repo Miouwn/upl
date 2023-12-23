@@ -13,7 +13,7 @@
     "time": 1390,
     "timeDay": 518,
     "timeWeek": 360,
-    "timeMonth": 371,
+    "timeMonth": 374,
     "timeYear": 1395,
     "dailyMinutesDown": {
       "2023-12-22": 18,
@@ -74,7 +74,7 @@
     "time": 1714,
     "timeDay": 434,
     "timeWeek": 1026,
-    "timeMonth": 571,
+    "timeMonth": 584,
     "timeYear": 1649,
     "dailyMinutesDown": {
       "2023-10-05": 21,
@@ -127,14 +127,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.29%",
+    "uptimeYear": "86.28%",
     "time": 2892,
     "timeDay": 5107,
     "timeWeek": 3087,
-    "timeMonth": 3678,
+    "timeMonth": 3623,
     "timeYear": 3112,
     "dailyMinutesDown": {
-      "2023-12-23": 1387,
+      "2023-12-23": 1413,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -227,7 +227,7 @@
     "timeMonth": 0,
     "timeYear": 11245,
     "dailyMinutesDown": {
-      "2023-12-23": 1387,
+      "2023-12-23": 1413,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-12-23": 1387,
+      "2023-12-23": 1413,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -704,17 +704,17 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "65.56%",
-    "uptimeWeek": "68.06%",
-    "uptimeMonth": "92.65%",
-    "uptimeYear": "98.83%",
-    "time": 9216,
-    "timeDay": 14113,
-    "timeWeek": 14356,
-    "timeMonth": 13209,
-    "timeYear": 9216,
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "66.35%",
+    "uptimeWeek": "68.42%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "98.84%",
+    "time": 9219,
+    "timeDay": 14511,
+    "timeWeek": 14417,
+    "timeMonth": 13235,
+    "timeYear": 9219,
     "dailyMinutesDown": {
       "2023-12-23": 477,
       "2023-12-22": 619,
@@ -722,7 +722,7 @@
       "2023-12-20": 331,
       "2023-12-19": 446,
       "2023-12-18": 695,
-      "2023-12-17": 109
+      "2023-12-17": 72
     }
   }
 ]
