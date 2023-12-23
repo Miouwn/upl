@@ -6,7 +6,7 @@
     "slug": "markdown-it-template",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "99.27%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.46%",
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-last.mioun.repl.co.ico",
     "slug": "uptime-kuma",
     "status": "down",
-    "uptime": "89.07%",
+    "uptime": "89.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -134,7 +134,7 @@
     "timeMonth": 3628,
     "timeYear": 3117,
     "dailyMinutesDown": {
-      "2023-12-23": 120,
+      "2023-12-23": 143,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -227,7 +227,7 @@
     "timeMonth": 0,
     "timeYear": 11245,
     "dailyMinutesDown": {
-      "2023-12-23": 121,
+      "2023-12-23": 143,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-12-23": 121,
+      "2023-12-23": 143,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -704,17 +704,17 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "54.15%",
-    "uptimeWeek": "69.09%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "98.86%",
-    "time": 9182,
-    "timeDay": 12434,
-    "timeWeek": 14462,
-    "timeMonth": 13078,
-    "timeYear": 9182,
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "55.33%",
+    "uptimeWeek": "69.28%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "98.87%",
+    "time": 9184,
+    "timeDay": 12780,
+    "timeWeek": 14481,
+    "timeMonth": 13098,
+    "timeYear": 9184,
     "dailyMinutesDown": {
       "2023-12-23": 120,
       "2023-12-22": 619,
@@ -722,7 +722,7 @@
       "2023-12-20": 331,
       "2023-12-19": 446,
       "2023-12-18": 695,
-      "2023-12-17": 363
+      "2023-12-17": 343
     }
   }
 ]
