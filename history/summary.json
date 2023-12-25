@@ -4,10 +4,10 @@
     "url": "https://markdown-it-template.mioun.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/markdown-it-template.mioun.repl.co.ico",
     "slug": "markdown-it-template",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.46%",
     "time": 1390,
@@ -16,6 +16,7 @@
     "timeMonth": 370,
     "timeYear": 1394,
     "dailyMinutesDown": {
+      "2023-12-25": 2,
       "2023-12-22": 18,
       "2023-12-04": 16,
       "2023-11-29": 19,
@@ -134,7 +135,7 @@
     "timeMonth": 3448,
     "timeYear": 3111,
     "dailyMinutesDown": {
-      "2023-12-25": 1117,
+      "2023-12-25": 1126,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
@@ -229,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 11245,
     "dailyMinutesDown": {
-      "2023-12-25": 1117,
+      "2023-12-25": 1126,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
@@ -501,7 +502,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-12-25": 1117,
+      "2023-12-25": 1126,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
@@ -710,16 +711,16 @@
     "url": "$YE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ye",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "50.56%",
-    "uptimeWeek": "67.41%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "51.11%",
+    "uptimeWeek": "67.56%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "98.82%",
     "time": 9261,
-    "timeDay": 12986,
-    "timeWeek": 13669,
-    "timeMonth": 13335,
+    "timeDay": 13109,
+    "timeWeek": 13643,
+    "timeMonth": 13332,
     "timeYear": 9261,
     "dailyMinutesDown": {
       "2023-12-25": 614,
@@ -728,7 +729,7 @@
       "2023-12-22": 619,
       "2023-12-21": 547,
       "2023-12-20": 331,
-      "2023-12-19": 168
+      "2023-12-19": 153
     }
   }
 ]
